@@ -21,6 +21,8 @@ public class HelloJava2 {
 		StringBuffer sb = new StringBuffer();
 
 		Calendar cal = new GregorianCalendar();
+		
+		
 
 		//		System.out.print("入力した値：");
 		System.out.println("入力した値：" + str);
